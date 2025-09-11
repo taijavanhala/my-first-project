@@ -8,3 +8,12 @@ The goal of this project is to practice using Git, GitHub, and Python.
    ```bash
    python hello.py
 
+
+# My First Project
+
+## Introduction
+This is my first project for practicing Git and GitHub.  
+It is a simple Python program that prints "Hello, GitHub!".
+
+## Using instructions
+Run the program in the terminal with:
