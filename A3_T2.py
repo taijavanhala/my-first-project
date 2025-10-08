@@ -1,9 +1,3 @@
-# A3_T2
-# Author: <oma nimesi>
-# Description:
-# Prompts user for a word and a character, checks if the character exists in the word,
-# then asks for another word and compares them alphabetically.
-
 # Prompt user to insert a word
 word_first = input("Enter a word: ")
 
