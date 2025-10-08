@@ -1,7 +1,3 @@
-# A3_T1
-# Author: <oma nimesi>
-# Description: Compares two integers and checks if their sum is even or odd.
-
 # Ask user to insert two integers
 a = int(input("Enter first integer: "))
 b = int(input("Enter second integer: "))
