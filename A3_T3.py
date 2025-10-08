@@ -1,9 +1,3 @@
-# A3_T3
-# Author: <oma nimesi>
-# Description:
-# Simple menu program. Prompts username first, then displays a menu with options.
-# User chooses by entering a number. No error handling is required.
-
 # Prompt username first
 name = input("Enter your name: ")
 
